@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 My name is Jae and I'm exploring frontend development with React and Vue.js 
+ 
+💻I am currently exploring opportunities where my tech skills combined with my leadership skills will contribute to add valuable project solutions
+ 
+🌐 I would like to collaborate on Frontend projects
+ 
+💡 Fun Fact: If I am not programming you can find me trying new restaurants or cooking new recipes 
+ 
+ 💬Connect with me on <a href="https://www.linkedin.com/in/jaehun-park/">LinkedIn</a>
+
 <!--
 **pjaepole/pjaepole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
